@@ -22,4 +22,3 @@ export function setCorPreferida(pessoa: Pessoa, cor: CorPreferida): Pessoa {
 
 console.log(setCorPreferida(pessoa, 'Ciano'))
 console.log(pessoa)
-
